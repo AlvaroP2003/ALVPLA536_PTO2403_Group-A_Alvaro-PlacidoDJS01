@@ -6,7 +6,7 @@ body, p {
 }
 
 body {
-    background-image: url('mars.gif');
+    /* background-image: url('mars.gif'); */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; /* Center the background image */
